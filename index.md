@@ -1,4 +1,4 @@
-# First try on github pages
+# Files:
 
 [index01.html](basic/index01.html)<br>
 [index02.html](basic/index02.html)<br>
